@@ -14,4 +14,4 @@ $ python3 Double-DQN.py
 ![](Double-DQN.gif)
 
 #### Average reward on Breakout
-![](image.png)
+![](images/image.png)
